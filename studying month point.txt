@@ -1,3 +1,7 @@
 STUDYING MONTH POINT DEVIN RAFA
 1. belajar git dan github
 2. master the python language
+  a. repeat learning about a if else steatment
+  b. continue learning about looping
+  c. add more some mini project
+3. make some new email for personality branding
