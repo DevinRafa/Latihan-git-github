@@ -12,11 +12,20 @@ INTI PENGERTIAN GIT
 
 3. sebagai alat untuk sharing sebuah project, syntax code, dll, istilah umumnya yaitu, github itu adalah sebuah sosmed-nya para progamming
 
+KESIMPULAN
+>> vcs = adalah alat untuk kita bisa merekam/snapshot setiap perubahan dalam source code kita
+>> git = adalah contoh alat vcs
+>> github = adalah sebuah website penyedia layanan cloud yang terdapat git didalam-nya
+
 
 ISTILAH ISTILAH DALAM GIT
 1. branch = adalah cabang timelie dari sebuah project, dimana ada cabang utama(main/master), dan ada cabang alternative 1 atau pun lebih itu disebut dengan branch
-2. repository/repo = adalah sebuah istilah folder yang sudah di fungsikan bekerja sama dengan git/github maka folder itu kita sebut dengan repository/repo
-3. checkout = adalah sebuah timeline rekaman kita, dimana kita bisa memperbaikin timeline sebelumnya jika belumm sempurna
-4. commit = dalah sebuah tindakan untuk menge-save file git kita, jadi kita ngga cukup dengan ctrl+s saja kita perlu commit juga. istilahnya commit ini adalah ctrl+s nya si file dalam repo
-5. 
-
+2. merge = proses menggabungkan banyak branch (kolaborasi)
+3. bash = kode unik untuk penanda dalam setiap sebuah commit
+4. remote = adalah pusat induk si repo
+5. clone = sebuah teknik untuk kita mengambil sebuah repo dari remote
+6. push = aktivitas untuk kita mengirim sebuah file source code yang sudah kita commit ke remote
+7. pull = teknik kita untuk mengambil source code yang sudah ada daftar commit-nya di remote dan diletakan di lokal kita
+8. repository/repo = adalah sebuah istilah folder yang sudah di fungsikan bekerja sama dengan git/github maka folder itu kita sebut dengan repository/repo
+9. checkout = adalah sebuah timeline rekaman kita, dimana kita bisa memperbaikin timeline sebelumnya jika belumm sempurna
+10. commit = dalah sebuah tindakan untuk menge-save file git kita, jadi kita ngga cukup dengan ctrl+s saja kita perlu commit juga. istilahnya commit ini adalah ctrl+s nya si file dalam repo
