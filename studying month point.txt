@@ -2,6 +2,7 @@ STUDYING MONTH POINT DEVIN RAFA
 1. belajar git dan github
   a. studying in jakarta about git & github
   b. completed to learn about git and github
+  c. masters to use the git and github on every project
 2. master the python language
   a. continue learning about looping
   b. add more some mini project
