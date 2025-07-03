@@ -20,7 +20,7 @@ KESIMPULAN
 
 ISTILAH ISTILAH DALAM GIT
 1. branch = adalah cabang timelie dari sebuah project, dimana ada cabang utama(main/master), dan ada cabang alternative 1 atau pun lebih itu disebut dengan branch
-2. merge = proses menggabungkan banyak branch (kolaborasi)
+2. merge = proses menggabungkan banyak branch
   >> istilah lain merge = "pull and request" dimana kita meminta si pemegang master/main branch nya untuk menggabungkan          alternative branch ke master/main branch
 4. bash = kode unik untuk penanda dalam setiap sebuah commit
 5. remote = adalah pusat induk si repo
@@ -28,5 +28,7 @@ ISTILAH ISTILAH DALAM GIT
 7. push = aktivitas untuk kita mengirim sebuah file source code yang sudah kita commit ke remote
 8. pull = teknik kita untuk mengambil source code yang sudah ada daftar commit-nya di remote dan diletakan di lokal kita
 9. repository/repo = adalah sebuah istilah folder yang sudah di fungsikan bekerja sama dengan git/github maka folder itu kita sebut dengan repository/repo
-10. checkout = adalah sebuah timeline rekaman kita, dimana kita bisa memperbaikin timeline sebelumnya jika belumm sempurna
+10. checkout = adalah sebuah timeline rekaman kita, dimana kita bisa memperbaikin timeline sebelumnya jika belum sempurna
 11. commit = dalah sebuah tindakan untuk menge-save file git kita, jadi kita ngga cukup dengan ctrl+s saja kita perlu commit juga. istilahnya commit ini adalah ctrl+s nya si file dalam repo
+12. merge conflict = adalah sebuah masalah ketika kita ingin merge sebuah branch yang banyak ke master/main branch, tetapi memiliki masalah karna tumpukan data di baris yang sama atau ketidak sambunagnnya connection antar baris.
+13. fork = adalah cara kita untuk meng-copy reposiitory orang dengan cara legal dan memilici credit (dimana dalam hal ini kita bisa saja mengedit repo orang dan ketika kita sudah selesai mengedit repo orang kita bisa membuat pull request ke repo milik sang credit, dan itu bisa menghasilkan kolaborasi jika pull request diterima)
